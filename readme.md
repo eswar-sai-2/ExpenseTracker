@@ -4,19 +4,7 @@ A personal expense management Android application built using **Python, Kivy and
 
 The application includes expense tracking, category-wise summaries, expense editing and deletion, and cloud-based data storage.
 
----
 
-## Screenshots
-
-| Login | Dashboard |
-|---|---|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.jpg) |
-
-| Expense Management | Edit Expense |
-|---|---|
-| ![Expenses](screenshots/expenses.jpg) | ![Edit Expense](screenshots/edit-expense.jpg) |
-
----
 
 ## Features
 
