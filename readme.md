@@ -391,3 +391,9 @@ This project was developed to gain practical experience in:
 ---
 
 **Built with Python, Kivy and Supabase.**
+
+## 📱 Download Android App
+
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK-green?style=for-the-badge&logo=android)](https://github.com/eswar-sai-2/ExpenseTracker/releases/latest)
+
+Download and install ExpenseTracker on your Android device.
