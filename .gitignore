@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Buildozer build files
+.buildozer/
+
+# Generated APK files
+bin/
+
+# Buildozer database
+buildozer/state.db
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
